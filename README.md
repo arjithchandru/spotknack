@@ -1,7 +1,7 @@
 # spotknack
-start running the program from "login.html".
+start running the program from "index.html".
 
-login.html => signup page.
+index.html => signup page.
 mainpage.html => Main content page.
 product.html => single page  and item description.
-checkout.html => payment page.
+user.html => payment page.
